@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+   <comments>
+      <element>
+         <body>some comment</body>
+         <id>1</id>
+         <postId>1</postId>
+      </element>
+   </comments>
+   <posts>
+      <element>
+         <author>typicode</author>
+         <id>1</id>
+         <title>json-server</title>
+      </element>
+   </posts>
+   <profile>
+      <name>typicode</name>
+   </profile>
+</root>
